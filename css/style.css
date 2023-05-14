@@ -159,6 +159,11 @@ body {
     margin-bottom: 111px;
 }
 
+.main-video {
+    width: 560px;
+    height: 315px;
+}
+
 
 /* lead */
 
@@ -1010,6 +1015,10 @@ hr {
 
     .main-content__intro__image {
         width: 100%;
+    }
+
+    .main-video {
+        max-width: 100%;
     }
 
     .main-content__right-side {
